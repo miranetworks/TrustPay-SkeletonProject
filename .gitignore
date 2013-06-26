@@ -1,1 +1,4 @@
 /SkeletonApp/.settings/org.eclipse.jdt.core.prefs
+/SkeletonApp/bin/
+/SkeletonApp/gen/
+/SkeletonApp/local.properties

@@ -3,7 +3,7 @@ package com.example.skeletonapp;
 
 import java.util.Date;
 
-import org.acme.R;
+import com.example.skeletonapp.R;
 
 import android.app.Activity;
 import android.content.ActivityNotFoundException;
